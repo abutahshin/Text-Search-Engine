@@ -118,6 +118,10 @@ http://localhost:8080/search?q=harry
 
 ### 📖 API Endpoints:
 
-|Method |Endpoint         |Description|
+|Method |Endpoint|Description|
 |-------|-----------------|-------------------------------|
 |**GET**|/search?q={query}|Search books by title or author|
+
+### For Details About Typesense Api Endpoints:
+
+[Explore This Blog](https://github.com/typesense/typesense-go)
