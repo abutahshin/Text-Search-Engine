@@ -125,3 +125,8 @@ http://localhost:8080/search?q=harry
 ### For Details About Typesense Api Endpoints:
 
 [Explore This Blog](https://github.com/typesense/typesense-go)
+
+
+### Postman Collection For Testing Typesense:
+
+[Postman Collection](https://github.com/typesense/postman)
